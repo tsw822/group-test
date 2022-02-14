@@ -72,4 +72,4 @@ The application should let the user enter a string and should display the number
 example:
 enter a string "I am just a poor boy from a poor family. Spare me my life for this one atrocity."
 the string contains 18 words
-
+//WDTest
